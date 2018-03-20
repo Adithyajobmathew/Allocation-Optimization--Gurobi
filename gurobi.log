@@ -1,0 +1,576 @@
+Optimize a model with 4895 rows, 78064 columns and 156128 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [6e-05, 5e-01]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [8e+01, 3e+05]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve time: 0.25s
+Presolved: 4895 rows, 78064 columns, 156128 nonzeros
+
+Ordering time: 0.01s
+
+Barrier statistics:
+ AA' NZ     : 7.806e+04
+ Factor NZ  : 8.348e+04 (roughly 34 MBytes of memory)
+ Factor Ops : 1.433e+06 (less than 1 second per iteration)
+ Threads    : 1
+
+Barrier performed 0 iterations in 0.40 seconds
+Barrier solve interrupted - model solved by another algorithm
+
+
+Solved with dual simplex
+Solved in 4879 iterations and 0.41 seconds
+Optimal objective  1.788391551e+04
+Optimize a model with 4895 rows, 78064 columns and 156128 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [6e-05, 5e-01]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [8e+01, 3e+05]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve time: 0.25s
+Presolved: 4895 rows, 78064 columns, 156128 nonzeros
+
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 7.806e+04
+ Factor NZ  : 8.348e+04 (roughly 34 MBytes of memory)
+ Factor Ops : 1.433e+06 (less than 1 second per iteration)
+ Threads    : 1
+
+Barrier performed 0 iterations in 0.38 seconds
+Barrier solve interrupted - model solved by another algorithm
+
+
+Solved with dual simplex
+Solved in 4879 iterations and 0.39 seconds
+Optimal objective  1.788391551e+04
+Optimize a model with 4895 rows, 78064 columns and 156128 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [6e-05, 5e-01]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [8e+01, 3e+05]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve time: 0.35s
+Presolved: 4895 rows, 78064 columns, 156128 nonzeros
+
+Ordering time: 0.01s
+
+Barrier statistics:
+ AA' NZ     : 7.806e+04
+ Factor NZ  : 8.348e+04 (roughly 34 MBytes of memory)
+ Factor Ops : 1.433e+06 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   3.79863080e+07  0.00000000e+00  1.25e+07 0.00e+00  7.74e+02     1s
+   1   2.64157841e+06 -7.62874836e+05  7.65e+05 2.78e-16  6.08e+01     1s
+
+Barrier performed 1 iterations in 0.68 seconds
+Barrier solve interrupted - model solved by another algorithm
+
+
+Solved with dual simplex
+Solved in 4879 iterations and 0.71 seconds
+Optimal objective  1.788391551e+04
+Optimize a model with 4895 rows, 78064 columns and 156128 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [6e-05, 5e-01]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [8e+01, 3e+05]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve time: 0.16s
+Presolved: 4895 rows, 78064 columns, 156128 nonzeros
+
+Ordering time: 0.01s
+
+Barrier statistics:
+ AA' NZ     : 7.806e+04
+ Factor NZ  : 8.348e+04 (roughly 34 MBytes of memory)
+ Factor Ops : 1.433e+06 (less than 1 second per iteration)
+ Threads    : 1
+
+Barrier performed 0 iterations in 0.31 seconds
+Barrier solve interrupted - model solved by another algorithm
+
+
+Solved with dual simplex
+Solved in 4879 iterations and 0.33 seconds
+Optimal objective  1.788391551e+04
+Optimize a model with 4895 rows, 78064 columns and 156128 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [6e-05, 5e-01]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [8e+01, 3e+05]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve time: 0.18s
+Presolved: 4895 rows, 78064 columns, 156128 nonzeros
+
+Ordering time: 0.01s
+
+Barrier statistics:
+ AA' NZ     : 7.806e+04
+ Factor NZ  : 8.348e+04 (roughly 34 MBytes of memory)
+ Factor Ops : 1.433e+06 (less than 1 second per iteration)
+ Threads    : 1
+
+Barrier performed 0 iterations in 0.28 seconds
+Barrier solve interrupted - model solved by another algorithm
+
+
+Solved with dual simplex
+Solved in 4879 iterations and 0.29 seconds
+Optimal objective  1.788391551e+04
+Optimize a model with 4895 rows, 78064 columns and 156128 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [6e-05, 5e-01]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [8e+01, 3e+05]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve time: 0.26s
+Presolved: 4895 rows, 78064 columns, 156128 nonzeros
+
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 7.806e+04
+ Factor NZ  : 8.348e+04 (roughly 34 MBytes of memory)
+ Factor Ops : 1.433e+06 (less than 1 second per iteration)
+ Threads    : 1
+
+Barrier performed 0 iterations in 0.34 seconds
+Barrier solve interrupted - model solved by another algorithm
+
+
+Solved with dual simplex
+Solved in 4879 iterations and 0.36 seconds
+Optimal objective  1.788391551e+04
+
+Gurobi 7.5.2 (mac64, Python) logging started Tue Mar  6 01:42:10 2018
+
+Academic license - for non-commercial use only
+Optimize a model with 4895 rows, 78064 columns and 156128 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [6e-05, 5e-01]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [8e+01, 3e+05]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve time: 0.21s
+Presolved: 4895 rows, 78064 columns, 156128 nonzeros
+
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 7.806e+04
+ Factor NZ  : 8.348e+04 (roughly 34 MBytes of memory)
+ Factor Ops : 1.433e+06 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   3.79863080e+07  0.00000000e+00  1.25e+07 0.00e+00  7.74e+02     0s
+
+Barrier performed 0 iterations in 0.37 seconds
+Barrier solve interrupted - model solved by another algorithm
+
+
+Solved with dual simplex
+Solved in 4879 iterations and 0.39 seconds
+Optimal objective  1.788391551e+04
+Optimize a model with 4895 rows, 78064 columns and 156128 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [6e-05, 5e-01]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [8e+01, 3e+05]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve time: 0.21s
+Presolved: 4895 rows, 78064 columns, 156128 nonzeros
+
+Ordering time: 0.01s
+
+Barrier statistics:
+ AA' NZ     : 7.806e+04
+ Factor NZ  : 8.348e+04 (roughly 34 MBytes of memory)
+ Factor Ops : 1.433e+06 (less than 1 second per iteration)
+ Threads    : 1
+
+Barrier performed 0 iterations in 0.32 seconds
+Barrier solve interrupted - model solved by another algorithm
+
+
+Solved with dual simplex
+Solved in 4879 iterations and 0.33 seconds
+Optimal objective  1.788391551e+04
+
+Gurobi 7.5.2 (mac64, Python) logging started Tue Mar  6 20:47:45 2018
+
+Academic license - for non-commercial use only
+Optimize a model with 4895 rows, 78064 columns and 156128 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [6e-05, 5e-01]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [8e+01, 3e+05]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve time: 0.21s
+Presolved: 4895 rows, 78064 columns, 156128 nonzeros
+
+Ordering time: 0.01s
+
+Barrier statistics:
+ AA' NZ     : 7.806e+04
+ Factor NZ  : 8.348e+04 (roughly 34 MBytes of memory)
+ Factor Ops : 1.433e+06 (less than 1 second per iteration)
+ Threads    : 1
+
+Barrier performed 0 iterations in 0.32 seconds
+Barrier solve interrupted - model solved by another algorithm
+
+
+Solved with dual simplex
+Solved in 4879 iterations and 0.33 seconds
+Optimal objective  1.788391551e+04
+Optimize a model with 4895 rows, 78064 columns and 156128 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [6e-05, 5e-01]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [8e+01, 3e+05]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve time: 0.25s
+Presolved: 4895 rows, 78064 columns, 156128 nonzeros
+
+Ordering time: 0.01s
+
+Barrier statistics:
+ AA' NZ     : 7.806e+04
+ Factor NZ  : 8.348e+04 (roughly 34 MBytes of memory)
+ Factor Ops : 1.433e+06 (less than 1 second per iteration)
+ Threads    : 1
+
+Barrier performed 0 iterations in 0.37 seconds
+Barrier solve interrupted - model solved by another algorithm
+
+
+Solved with dual simplex
+Solved in 4879 iterations and 0.39 seconds
+Optimal objective  1.788391551e+04
+Optimize a model with 4895 rows, 78064 columns and 156128 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [6e-05, 5e-01]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [3e+02, 3e+05]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve time: 0.80s
+Presolved: 4895 rows, 78064 columns, 156128 nonzeros
+
+Ordering time: 0.01s
+
+Barrier statistics:
+ AA' NZ     : 7.806e+04
+ Factor NZ  : 8.348e+04 (roughly 34 MBytes of memory)
+ Factor Ops : 1.433e+06 (less than 1 second per iteration)
+ Threads    : 1
+
+Barrier performed 0 iterations in 1.03 seconds
+Optimization interrupted
+
+
+Stopped in 0 iterations and 1.05 seconds
+Solve interrupted
+Optimize a model with 4895 rows, 78064 columns and 156128 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [6e-05, 5e-01]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [3e+02, 3e+05]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve time: 0.23s
+Presolved: 4895 rows, 78064 columns, 156128 nonzeros
+
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 7.806e+04
+ Factor NZ  : 8.348e+04 (roughly 34 MBytes of memory)
+ Factor Ops : 1.433e+06 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   3.81739329e+07  0.00000000e+00  1.25e+07 0.00e+00  8.70e+02     0s
+   1   2.69641599e+06 -6.73236712e+05  7.83e+05 2.22e-16  6.73e+01     0s
+   2   4.43023526e+05 -2.14467082e+05  0.00e+00 2.78e-16  7.93e+00     0s
+   3   2.64087839e+05 -4.57261642e+04  0.00e+00 1.67e-16  3.73e+00     0s
+   4   1.52314793e+05  4.90655228e+04  0.00e+00 1.67e-16  1.24e+00     1s
+   5   1.22766887e+05  6.73739516e+04  0.00e+00 1.67e-16  6.68e-01     1s
+   6   1.04562642e+05  7.55633503e+04  0.00e+00 1.11e-16  3.50e-01     1s
+   7   9.74366014e+04  8.06139775e+04  0.00e+00 2.22e-16  2.03e-01     1s
+   8   8.96616026e+04  8.25984767e+04  0.00e+00 1.67e-16  8.51e-02     1s
+   9   8.54623114e+04  8.32772671e+04  0.00e+00 1.67e-16  2.63e-02     1s
+  10   8.48518274e+04  8.34880172e+04  0.00e+00 1.67e-16  1.64e-02     1s
+  11   8.43811347e+04  8.35892605e+04  0.00e+00 1.67e-16  9.55e-03     1s
+  12   8.41163360e+04  8.36649767e+04  0.00e+00 1.67e-16  5.44e-03     1s
+  13   8.39577491e+04  8.36966524e+04  0.00e+00 1.67e-16  3.15e-03     1s
+  14   8.38734591e+04  8.37087966e+04  0.00e+00 1.11e-16  1.98e-03     1s
+  15   8.38202757e+04  8.37179044e+04  0.00e+00 1.67e-16  1.23e-03     1s
+  16   8.37497757e+04  8.37212546e+04  0.00e+00 1.67e-16  3.44e-04     1s
+  17   8.37386839e+04  8.37221822e+04  0.00e+00 1.67e-16  1.99e-04     1s
+  18   8.37304841e+04  8.37232904e+04  0.00e+00 2.22e-16  8.67e-05     1s
+  19   8.37289667e+04  8.37233230e+04  0.00e+00 2.78e-16  6.80e-05     1s
+  20   8.37234413e+04  8.37233365e+04  0.00e+00 2.94e-10  1.26e-06     1s
+  21   8.37233459e+04  8.37233459e+04  1.12e-07 4.69e-13  2.26e-10     1s
+
+Barrier solved model in 21 iterations and 1.07 seconds
+Optimal objective 8.37233459e+04
+
+Crossover log...
+
+      76 PPushes remaining with PInf 0.0000000e+00                 1s
+       0 PPushes remaining with PInf 0.0000000e+00                 1s
+
+  Push phase complete: Pinf 0.0000000e+00, Dinf 4.6752966e-15      1s
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+      79    8.3723346e+04   0.000000e+00   0.000000e+00      1s
+      79    8.3723346e+04   0.000000e+00   0.000000e+00      1s
+
+Solved with barrier
+Solved in 79 iterations and 1.24 seconds
+Optimal objective  8.372334589e+04
+Optimize a model with 4895 rows, 78064 columns and 156128 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [6e-05, 5e-01]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [3e+02, 3e+05]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve time: 0.23s
+Presolved: 4895 rows, 78064 columns, 156128 nonzeros
+
+Ordering time: 0.01s
+
+Barrier statistics:
+ AA' NZ     : 7.806e+04
+ Factor NZ  : 8.348e+04 (roughly 34 MBytes of memory)
+ Factor Ops : 1.433e+06 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   3.81739329e+07  0.00000000e+00  1.25e+07 0.00e+00  8.70e+02     0s
+   1   2.69641599e+06 -6.73236712e+05  7.83e+05 2.22e-16  6.73e+01     0s
+   2   4.43023526e+05 -2.14467082e+05  0.00e+00 2.78e-16  7.93e+00     0s
+   3   2.64087839e+05 -4.57261642e+04  0.00e+00 1.67e-16  3.73e+00     1s
+   4   1.52314793e+05  4.90655228e+04  0.00e+00 1.67e-16  1.24e+00     1s
+   5   1.22766887e+05  6.73739516e+04  0.00e+00 1.67e-16  6.68e-01     1s
+   6   1.04562642e+05  7.55633503e+04  0.00e+00 1.11e-16  3.50e-01     1s
+   7   9.74366014e+04  8.06139775e+04  0.00e+00 2.22e-16  2.03e-01     1s
+   8   8.96616026e+04  8.25984767e+04  0.00e+00 1.67e-16  8.51e-02     1s
+   9   8.54623114e+04  8.32772671e+04  0.00e+00 1.67e-16  2.63e-02     1s
+  10   8.48518274e+04  8.34880172e+04  0.00e+00 1.67e-16  1.64e-02     1s
+  11   8.43811347e+04  8.35892605e+04  0.00e+00 1.67e-16  9.55e-03     1s
+  12   8.41163360e+04  8.36649767e+04  0.00e+00 1.67e-16  5.44e-03     1s
+  13   8.39577491e+04  8.36966524e+04  0.00e+00 1.67e-16  3.15e-03     1s
+  14   8.38734591e+04  8.37087966e+04  0.00e+00 1.11e-16  1.98e-03     1s
+  15   8.38202757e+04  8.37179044e+04  0.00e+00 1.67e-16  1.23e-03     1s
+  16   8.37497757e+04  8.37212546e+04  0.00e+00 1.67e-16  3.44e-04     1s
+  17   8.37386839e+04  8.37221822e+04  0.00e+00 1.67e-16  1.99e-04     1s
+  18   8.37304841e+04  8.37232904e+04  0.00e+00 2.22e-16  8.67e-05     1s
+  19   8.37289667e+04  8.37233230e+04  0.00e+00 2.78e-16  6.80e-05     1s
+  20   8.37234413e+04  8.37233365e+04  0.00e+00 2.94e-10  1.26e-06     1s
+  21   8.37233459e+04  8.37233459e+04  1.12e-07 4.69e-13  2.26e-10     1s
+
+Barrier solved model in 21 iterations and 1.10 seconds
+Optimal objective 8.37233459e+04
+
+Crossover log...
+
+      76 PPushes remaining with PInf 0.0000000e+00                 1s
+       0 PPushes remaining with PInf 0.0000000e+00                 1s
+
+  Push phase complete: Pinf 0.0000000e+00, Dinf 4.6752966e-15      1s
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+      79    8.3723346e+04   0.000000e+00   0.000000e+00      1s
+      79    8.3723346e+04   0.000000e+00   0.000000e+00      1s
+
+Solved with barrier
+Solved in 79 iterations and 1.30 seconds
+Optimal objective  8.372334589e+04
+Optimize a model with 4895 rows, 78064 columns and 156128 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [6e-05, 5e-01]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [3e+02, 3e+05]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve time: 0.27s
+Presolved: 4895 rows, 78064 columns, 156128 nonzeros
+
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 7.806e+04
+ Factor NZ  : 8.348e+04 (roughly 34 MBytes of memory)
+ Factor Ops : 1.433e+06 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   3.81739329e+07  0.00000000e+00  1.25e+07 0.00e+00  8.70e+02     0s
+   1   2.69641599e+06 -6.73236712e+05  7.83e+05 2.22e-16  6.73e+01     0s
+   2   4.43023526e+05 -2.14467082e+05  0.00e+00 2.78e-16  7.93e+00     0s
+   3   2.64087839e+05 -4.57261642e+04  0.00e+00 1.67e-16  3.73e+00     1s
+   4   1.52314793e+05  4.90655228e+04  0.00e+00 1.67e-16  1.24e+00     1s
+   5   1.22766887e+05  6.73739516e+04  0.00e+00 1.67e-16  6.68e-01     1s
+   6   1.04562642e+05  7.55633503e+04  0.00e+00 1.11e-16  3.50e-01     1s
+   7   9.74366014e+04  8.06139775e+04  0.00e+00 2.22e-16  2.03e-01     1s
+   8   8.96616026e+04  8.25984767e+04  0.00e+00 1.67e-16  8.51e-02     1s
+   9   8.54623114e+04  8.32772671e+04  0.00e+00 1.67e-16  2.63e-02     1s
+  10   8.48518274e+04  8.34880172e+04  0.00e+00 1.67e-16  1.64e-02     1s
+  11   8.43811347e+04  8.35892605e+04  0.00e+00 1.67e-16  9.55e-03     1s
+  12   8.41163360e+04  8.36649767e+04  0.00e+00 1.67e-16  5.44e-03     1s
+  13   8.39577491e+04  8.36966524e+04  0.00e+00 1.67e-16  3.15e-03     1s
+  14   8.38734591e+04  8.37087966e+04  0.00e+00 1.11e-16  1.98e-03     1s
+  15   8.38202757e+04  8.37179044e+04  0.00e+00 1.67e-16  1.23e-03     1s
+  16   8.37497757e+04  8.37212546e+04  0.00e+00 1.67e-16  3.44e-04     1s
+  17   8.37386839e+04  8.37221822e+04  0.00e+00 1.67e-16  1.99e-04     1s
+  18   8.37304841e+04  8.37232904e+04  0.00e+00 2.22e-16  8.67e-05     1s
+  19   8.37289667e+04  8.37233230e+04  0.00e+00 2.78e-16  6.80e-05     1s
+  20   8.37234413e+04  8.37233365e+04  0.00e+00 2.94e-10  1.26e-06     1s
+  21   8.37233459e+04  8.37233459e+04  1.12e-07 4.69e-13  2.26e-10     1s
+
+Barrier solved model in 21 iterations and 1.17 seconds
+Optimal objective 8.37233459e+04
+
+Crossover log...
+
+      76 PPushes remaining with PInf 0.0000000e+00                 1s
+       0 PPushes remaining with PInf 0.0000000e+00                 1s
+
+  Push phase complete: Pinf 0.0000000e+00, Dinf 4.6752966e-15      1s
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+      79    8.3723346e+04   0.000000e+00   0.000000e+00      1s
+      79    8.3723346e+04   0.000000e+00   0.000000e+00      1s
+
+Solved with barrier
+Solved in 79 iterations and 1.37 seconds
+Optimal objective  8.372334589e+04
+Optimize a model with 4895 rows, 78064 columns and 156128 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [6e-05, 5e-01]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [3e+02, 3e+05]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve time: 0.17s
+Presolved: 4895 rows, 78064 columns, 156128 nonzeros
+
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 7.806e+04
+ Factor NZ  : 8.348e+04 (roughly 34 MBytes of memory)
+ Factor Ops : 1.433e+06 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   3.81739329e+07  0.00000000e+00  1.25e+07 0.00e+00  8.70e+02     0s
+   1   2.69641599e+06 -6.73236712e+05  7.83e+05 2.22e-16  6.73e+01     0s
+   2   4.43023526e+05 -2.14467082e+05  0.00e+00 2.78e-16  7.93e+00     0s
+   3   2.64087839e+05 -4.57261642e+04  0.00e+00 1.67e-16  3.73e+00     0s
+   4   1.52314793e+05  4.90655228e+04  0.00e+00 1.67e-16  1.24e+00     0s
+   5   1.22766887e+05  6.73739516e+04  0.00e+00 1.67e-16  6.68e-01     0s
+   6   1.04562642e+05  7.55633503e+04  0.00e+00 1.11e-16  3.50e-01     1s
+   7   9.74366014e+04  8.06139775e+04  0.00e+00 2.22e-16  2.03e-01     1s
+   8   8.96616026e+04  8.25984767e+04  0.00e+00 1.67e-16  8.51e-02     1s
+   9   8.54623114e+04  8.32772671e+04  0.00e+00 1.67e-16  2.63e-02     1s
+  10   8.48518274e+04  8.34880172e+04  0.00e+00 1.67e-16  1.64e-02     1s
+  11   8.43811347e+04  8.35892605e+04  0.00e+00 1.67e-16  9.55e-03     1s
+  12   8.41163360e+04  8.36649767e+04  0.00e+00 1.67e-16  5.44e-03     1s
+  13   8.39577491e+04  8.36966524e+04  0.00e+00 1.67e-16  3.15e-03     1s
+  14   8.38734591e+04  8.37087966e+04  0.00e+00 1.11e-16  1.98e-03     1s
+  15   8.38202757e+04  8.37179044e+04  0.00e+00 1.67e-16  1.23e-03     1s
+  16   8.37497757e+04  8.37212546e+04  0.00e+00 1.67e-16  3.44e-04     1s
+  17   8.37386839e+04  8.37221822e+04  0.00e+00 1.67e-16  1.99e-04     1s
+  18   8.37304841e+04  8.37232904e+04  0.00e+00 2.22e-16  8.67e-05     1s
+  19   8.37289667e+04  8.37233230e+04  0.00e+00 2.78e-16  6.80e-05     1s
+  20   8.37234413e+04  8.37233365e+04  0.00e+00 2.94e-10  1.26e-06     1s
+  21   8.37233459e+04  8.37233459e+04  1.12e-07 4.69e-13  2.26e-10     1s
+
+Barrier solved model in 21 iterations and 1.02 seconds
+Optimal objective 8.37233459e+04
+
+Crossover log...
+
+      76 PPushes remaining with PInf 0.0000000e+00                 1s
+       0 PPushes remaining with PInf 0.0000000e+00                 1s
+
+  Push phase complete: Pinf 0.0000000e+00, Dinf 4.6752966e-15      1s
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+      79    8.3723346e+04   0.000000e+00   0.000000e+00      1s
+      79    8.3723346e+04   0.000000e+00   0.000000e+00      1s
+
+Solved with barrier
+Solved in 79 iterations and 1.18 seconds
+Optimal objective  8.372334589e+04
